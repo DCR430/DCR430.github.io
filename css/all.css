@@ -634,7 +634,7 @@ transition: all 0.5s ease-in-out;
 		background-size:31px 30px;
 	}
 	.slogan{
-		background-image: url(../images/slogan_bg@x2.gif);
+		/* background-image: url(../images/slogan_bg@x2.gif); */
 		background-size:80px 4px;
 	}
 	.box_timeline_holder{
