@@ -180,12 +180,12 @@ a:hover{text-decoration:underline;}
 }
 #nav ul li:first-child{padding: 0;}
 #nav ul a {
-	color: #aeecc2;
+	color: white;
 	font-size: 18px;
 	line-height: 20px;
 	text-transform: uppercase;
 	padding: 0 0 10px;
-	border-bottom: 4px solid #62bb7f;
+	border-bottom: 4px solid white;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
@@ -205,7 +205,7 @@ h2.slogan{
 	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
-	color: #aeecc2;
+	color:white;
 	padding: 34px 0 50px 0;
 	background: url(../images/slogan_bg.gif) no-repeat 50% 0;
 }
