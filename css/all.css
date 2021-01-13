@@ -207,7 +207,7 @@ h2.slogan{
 	line-height: 32px;
 	color:white;
 	padding: 34px 0 50px 0;
-	background: url(../images/slogan_bg.gif) no-repeat 50% 0;
+	/* background: url(../images/slogan_bg.gif) no-repeat 50% 0; */
 }
 /*main
  */
