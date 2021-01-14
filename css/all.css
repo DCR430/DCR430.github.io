@@ -190,8 +190,8 @@ a:hover{text-decoration:underline;}
 	font-weight: normal;
 }
 #nav ul a:hover,#nav ul a.active{
-	color: #fff;
-	border-bottom: 4px solid #fff;
+	color: #ff6600;
+	border-bottom: 4px solid #ff6600;
 	text-decoration: none;
 	-webkit-transition: all 0.5s ease-in-out;
 -moz-transition: all 0.5s ease-in-out;
