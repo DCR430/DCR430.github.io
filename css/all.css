@@ -229,31 +229,31 @@ h2.slogan{
 	margin: 0 0 81px;
 }
 .box_timeline_holder{
-	background: url(../images/bg_timeline_l.png) no-repeat 0 70px;
+	/* background: url(../images/bg_timeline_l.png) no-repeat 0 70px; */
 	position: relative;
 	padding: 0 0 0 100px;
 	overflow: hidden;
 }
 .box_timeline{
-	background: url(../images/bg_timeline_r.png) no-repeat 100% 70px;
+	/* background: url(../images/bg_timeline_r.png) no-repeat 100% 70px; */
 	position: relative;
 	padding: 0 100px 0 0;
 	overflow: hidden;
 }
 .box_timeline ul{
 	position: relative;
-	background: url(../images/bg_ul.gif) repeat-x 0 76px;
+	/* background: url(../images/bg_ul.gif) repeat-x 0 76px; */
 	overflow: hidden;
 }
 .box_timeline ul li{
 	float:left;
 	width: 170px;
 	margin: 0 0 0 30px;
-	background: url(../images/bg_ul.gif) repeat-x 0 76px;
+	/* background: url(../images/bg_ul.gif) repeat-x 0 76px; */
 }
 .box_timeline ul li:first-child{margin: 0;}
 .box_timeline ul li .date{
-	background: url(../images/bg_timeline_c.png) no-repeat 50% 0;
+	/* background: url(../images/bg_timeline_c.png) no-repeat 50% 0; */
 	height: 86px;
 	width: 170px;
 	margin: 0 auto 12px;
