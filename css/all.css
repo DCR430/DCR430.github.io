@@ -638,15 +638,15 @@ transition: all 0.5s ease-in-out;
 		background-size:80px 4px;
 	}
 	.box_timeline_holder{
-		background-image: url(../images/bg_timeline_l@x2.png);
+		/* background-image: url(../images/bg_timeline_l@x2.png); */
 		background-size:100px 16px;
 	}
 	.box_timeline{
-		background-image: url(../images/bg_timeline_r@x2.png);
+		/* background-image: url(../images/bg_timeline_r@x2.png); */
 		background-size:100px 16px;
 	}
 	.box_timeline ul li .date{
-		background-image: url(../images/bg_timeline_c@x2.png);
+		/* background-image: url(../images/bg_timeline_c@x2.png); */
 		background-size:50px 86px;
 	}
 	.footer-content .social li.email a{
