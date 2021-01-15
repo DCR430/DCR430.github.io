@@ -651,7 +651,7 @@ transition: all 0.5s ease-in-out;
 	}
 	.footer-content .social li.email a{
 		background-image: url(../images/icon_email@x2.png);
-		background-size:51px 38px;
+		background-size:61px 55px;
 	}
 	.footer-content .social li.linked a{
 		background-image: url(../images/icon_linked2.png);
@@ -663,11 +663,11 @@ transition: all 0.5s ease-in-out;
 	}
 	.footer-content .social li.twitter a{
 		background-image: url(../images/icon_tw@x2.png);
-		background-size:44px 34px;
+		background-size:61px 55px;
 	}
 	.footer-content .social li.medium a{
 		background-image: url(../images/icon_medium.png);
-		background-size:48px 41px;
+		background-size:61px 55px;
 	}
 	.plagin_list li.li_1 a{
 		background-image: url(../images/icon_ps@x2.png);
