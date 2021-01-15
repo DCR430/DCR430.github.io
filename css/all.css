@@ -567,7 +567,7 @@ transition: all 0.5s ease-in-out;
 	position: relative;
 }
 .footer-content .social li.email a{background: url(../images/icon_email.png) no-repeat 50% 50% ;}
-.footer-content .social li.linked a{background: url(../images/icon_link.png) no-repeat 50% 50%;}
+.footer-content .social li.linked a{background: url(../images/icon_linked.png) no-repeat 50% 50%;}
 .footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
 .footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
 .footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
@@ -654,7 +654,7 @@ transition: all 0.5s ease-in-out;
 		background-size:51px 38px;
 	}
 	.footer-content .social li.linked a{
-		background-image: url(../images/icon_link.png);
+		background-image: url(../images/icon_linked.png);
 		background-size:42px 38px;
 	}
 	.footer-content .social li.google a{
