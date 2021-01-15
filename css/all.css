@@ -570,7 +570,7 @@ transition: all 0.5s ease-in-out;
 .footer-content .social li.linked a{background: url(../images/icon_linked2.png) no-repeat 50% 50%;}
 .footer-content .social li.github a{background: url(../images/icon_git.png) no-repeat 50% 50% ;}
 .footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
-.footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
+.footer-content .social li.medium a{background: url(../images/icon_medium.png) no-repeat 50% 50%;}
 .footer-content p{
 	font:18px/20px Arial, Helvetica, sans-serif;
 	display: block;
@@ -666,7 +666,7 @@ transition: all 0.5s ease-in-out;
 		background-size:44px 34px;
 	}
 	.footer-content .social li.pinterest a{
-		background-image: url(../images/icon_pn@x2.png);
+		background-image: url(../images/icon_medium.png);
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
