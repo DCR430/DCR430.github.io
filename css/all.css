@@ -195,8 +195,7 @@ a:hover{text-decoration:underline;}
 	font-size: 18px;
 	line-height: 40px;
 	text-transform: uppercase;
-	padding: 0 0 10px;
-	/* border-bottom: 4px solid white; */
+	padding: 0 0 40px;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
