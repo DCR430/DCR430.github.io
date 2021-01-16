@@ -189,6 +189,7 @@ a:hover{text-decoration:underline;}
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
+
 #nav2 ul li:first-child{padding: 0;}
 #nav2 ul a {
 	color: white;
@@ -200,6 +201,7 @@ a:hover{text-decoration:underline;}
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
+
 #nav2 ul {
 	text-align: center;
 }
