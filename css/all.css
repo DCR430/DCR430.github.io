@@ -126,7 +126,7 @@ body{
 }
 img{border-style:none; vertical-align: top;}
 a{text-decoration:none; color:#6e6e6e;}
-a:hover{text-decoration:underline;}
+/* a:hover{text-decoration:underline;} */
 #wrapper{
 	width:100%;
 	height: 100%;
