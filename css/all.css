@@ -189,6 +189,17 @@ a:hover{text-decoration:underline;}
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
+
+#nav ul h3 {
+	color: white;
+	font-size: 18px;
+	line-height: 20px;
+	text-transform: uppercase;
+	padding: 0 0 10px;
+	border-bottom: 4px solid white;
+	font-family: 'novecentosanswide';
+	font-weight: normal;
+}
 #nav ul a:hover,#nav ul a.active{
 	color:  #28292b;
 	border-bottom: 4px solid   #28292b;
