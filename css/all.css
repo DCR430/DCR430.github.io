@@ -197,13 +197,17 @@ a:hover{text-decoration:underline;}
 	line-height: 20px;
 	text-transform: uppercase;
 	padding: 0 0 10px;
-
-	font-family: 'novecentosanswide';
+    font-family: 'novecentosanswide';
 	font-weight: normal;
 }
 
 #nav2 ul {
 	text-align: center;
+}
+
+#nav2 ul li {
+	float: left;
+	padding: 0 0 0 60px;
 }
 
 
