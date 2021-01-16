@@ -651,7 +651,7 @@ transition: all 0.5s ease-in-out;
 	}
 	.footer-content .social li.email a{
 		background-image: url(../images/icon_email@x2.png);
-		background-size:61px 55px;
+		background-size:51px 38px;
 	}
 	.footer-content .social li.linked a{
 		background-image: url(../images/icon_linked2.png);
