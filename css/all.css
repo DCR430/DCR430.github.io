@@ -189,16 +189,11 @@ a:hover{text-decoration:underline;}
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
-
-#nav2 ul li:first-child{padding: 0;}
-#nav2 ul a {
-	color: white;
-	font-size: 18px;
-	line-height: 20px;
-	text-transform: uppercase;
-	padding: 0 0 10px;
-    font-family: 'novecentosanswide';
-	font-weight: normal;
+#nav2 {
+	position: relative;
+	display: table;
+	margin: 0 auto 22px;
+	padding: 0 0 0 10px;
 }
 
 #nav2 ul {
@@ -211,14 +206,7 @@ a:hover{text-decoration:underline;}
 }
 
 
-
-#nav2 {
-	position: relative;
-	display: table;
-	margin: 0 auto 22px;
-	padding: 0 0 0 10px;
-}
-
+#nav2 ul li:first-child{padding: 0;}
 #nav2 ul a {
 	color: white;
 	font-size: 18px;
@@ -228,6 +216,11 @@ a:hover{text-decoration:underline;}
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
+
+
+
+
+
 #nav ul a:hover,#nav ul a.active{
 	color:  #28292b;
 	border-bottom: 4px solid   #28292b;
