@@ -207,7 +207,7 @@ a{text-decoration:none; color:#6e6e6e;}
 
 
 #nav2 ul li:first-child{padding: 0;}
-#nav2 ul p {
+#nav2 ul a {
 	color: white;
 	font-size: 18px;
 	line-height: 40px;
