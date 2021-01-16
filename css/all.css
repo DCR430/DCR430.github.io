@@ -193,10 +193,10 @@ a:hover{text-decoration:underline;}
 #nav ul h3 {
 	color: white;
 	font-size: 18px;
-	line-height: 20px;
+	line-height: 40px;
 	text-transform: uppercase;
 	padding: 0 0 10px;
-	border-bottom: 4px solid white;
+	/* border-bottom: 4px solid white; */
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
