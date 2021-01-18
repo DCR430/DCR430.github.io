@@ -327,7 +327,7 @@ h2.slogan{
 	margin: 0 0 0px;
 }
 /*skills*/
-/* #main .skills_holder h2{text-align: left;margin: 0 0 40px;} */
+#main .skills_holder h2{text-align: center;margin: 0 0 40px;}
 .skills_holder{
 	width: 100%;
 	overflow: hidden;
