@@ -339,7 +339,7 @@ h2.slogan{
 	margin: 0 10px 0 0;
 }
 .skills_holder .column.column-add {
-	float: right;
+	/* float: right; */
 	margin: 0;
 }
 .progress{
