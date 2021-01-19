@@ -402,8 +402,8 @@ h2.slogan{
 .plagin_list li.li_3 a{background: url(../images/icon_js.png) no-repeat 50% 50% ;}
 .plagin_list li.li_4 a{background: url(../images/icon_react.png) no-repeat 50% 50% ;}
 .plagin_list li.li_5 a{background: url(../images/icon_css5.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_post2.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/icon_html2.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/icon_post2.png) no-repeat 50% 50% ;}
 .plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
@@ -727,12 +727,12 @@ transition: all 0.5s ease-in-out;
 		background-size:65px 65px;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/icon_post2.png);
+		background-image: url(../images/icon_html2.png);
 		background-size:90px 90px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/icon_jq@x2.png);
-		background-size:87px 20px;
+		background-image: url(../images/icon_post2.png);
+		background-size:90px 90px;
 	}
 	.plagin_list li.li_8 a{
 		background-image: url(../images/icon_seo@x2.png);
