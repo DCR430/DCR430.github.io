@@ -401,7 +401,7 @@ h2.slogan{
 .plagin_list li.li_2 a{background: url(../images/icon_rails.png) no-repeat 50% 50% ;}
 .plagin_list li.li_3 a{background: url(../images/icon_js.png) no-repeat 50% 50% ;}
 .plagin_list li.li_4 a{background: url(../images/icon_react.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_css3.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/icon_css4.png) no-repeat 50% 50% ;}
 .plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
 .plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
 .plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
@@ -723,7 +723,7 @@ transition: all 0.5s ease-in-out;
 		background-size:55px 45px;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/icon_css3.png);
+		background-image: url(../images/icon_css4.png);
 		background-size:85px 50px;
 	}
 	.plagin_list li.li_6 a{
