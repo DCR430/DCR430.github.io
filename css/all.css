@@ -398,6 +398,7 @@ h2.slogan{
 	position: relative;
 }
 .resume{
+	position: relative;
 	background-color:transparent;
 	border: 1px solid #46484c;
 	color: #ff6600;
@@ -407,7 +408,7 @@ h2.slogan{
 	display: block;
 	text-align: center;
 	border-radius: 12px;
-	top: -25px;
+	top: -35px;
 	transition: 0.3s;
 }
 .resume:hover {
