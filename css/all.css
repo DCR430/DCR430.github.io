@@ -190,12 +190,11 @@ a{text-decoration:none; color:#6e6e6e;}
 	font-weight: normal;
 }
 #nav2 {
-	position: absolute;
+	position: relative;
 	display: table;
 	margin: 0 auto 35px;
 	padding: 0 0 0 10px;
 	bottom:35px;
-	right: 45px;
 
 }
 
@@ -211,6 +210,7 @@ a{text-decoration:none; color:#6e6e6e;}
 
 #nav2 ul li:first-child{padding: 0;}
 #nav2 ul a {
+	position: relative;
 	color: white;
 	font-size: 18px;
 	line-height: 40px;
@@ -218,6 +218,7 @@ a{text-decoration:none; color:#6e6e6e;}
 	padding: 0 0 40px;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
+	right: 35px;
 }
 
 .email{
