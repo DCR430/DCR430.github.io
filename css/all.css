@@ -400,13 +400,13 @@ h2.slogan{
 .resume{
 	background-color:transparent;
 	border: 1px solid #46484c;
-	color: white;
 	font-size: 12px;
 	padding: 14px 40px;
 	font-family: 'novecentosanswide';
 	display: block;
 	text-align: center;
 	border-radius: 12px;
+	top: -25px;
 }
 .plagin_list li.li_1 a{background: url(../images/icon_ruby6.png) no-repeat 50% 50% ;}
 .plagin_list li.li_2 a{background: url(../images/icon_rails2.png) no-repeat 50% 50% ;}
