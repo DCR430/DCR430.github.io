@@ -408,6 +408,7 @@ h2.slogan{
 	text-align: center;
 	border-radius: 12px;
 	top: -25px;
+	transition: 0.3s;
 }
 .resume:hover {
 	background-color: #ff6600;
