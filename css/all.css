@@ -204,7 +204,7 @@ a{text-decoration:none; color:#6e6e6e;}
 
 #nav2 ul li {
 	float: left;
-	padding: 0 0 0 60px;
+	padding: 0 0 0 90px;
 }
 
 
@@ -214,7 +214,7 @@ a{text-decoration:none; color:#6e6e6e;}
 	font-size: 18px;
 	line-height: 40px;
 	text-transform: uppercase;
-	padding: 0 0 40px;
+	padding: 0 0 90px;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
