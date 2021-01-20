@@ -194,7 +194,8 @@ a{text-decoration:none; color:#6e6e6e;}
 	display: table;
 	margin: 0 auto 35px;
 	padding: 0 0 0 10px;
-	bottom:35px
+	bottom:35px;
+	left:50px;
 }
 
 #nav2 ul {
