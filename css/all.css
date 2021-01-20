@@ -190,11 +190,12 @@ a{text-decoration:none; color:#6e6e6e;}
 	font-weight: normal;
 }
 #nav2 {
-	position: relative;
+	position: absolute;
 	display: table;
 	margin: 0 auto 35px;
 	padding: 0 0 0 10px;
-	bottom:35px;
+	bottom: 20px;
+	right: 264.5px;
 
 }
 
