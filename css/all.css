@@ -398,8 +398,9 @@ h2.slogan{
 	position: relative;
 }
 .resume{
-	background-color: #a4a7ac;
+	background-color:black;
 	border: 1px solid #46484c;
+	color: white;
 	font-size: 12px;
 	padding: 14px 40px;
 	font-family: 'novecentosanswide';
