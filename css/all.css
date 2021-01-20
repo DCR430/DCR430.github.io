@@ -195,7 +195,6 @@ a{text-decoration:none; color:#6e6e6e;}
 	margin: 0 auto 35px;
 	padding: 0 0 0 10px;
 	bottom:35px;
-	left:50px;
 }
 
 #nav2 ul {
@@ -204,7 +203,7 @@ a{text-decoration:none; color:#6e6e6e;}
 
 #nav2 ul li {
 	float: left;
-	padding: 0 0 0 90px;
+	padding: 0 0 0 60px;
 }
 
 
@@ -214,7 +213,7 @@ a{text-decoration:none; color:#6e6e6e;}
 	font-size: 18px;
 	line-height: 40px;
 	text-transform: uppercase;
-	padding: 0 0 90px;
+	padding: 0 0 40px;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
