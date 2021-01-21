@@ -570,13 +570,19 @@ transition: all 0.5s ease-in-out;
 .box_contact span{
 	color: #fff;
 	font-family: 'novecento_sans_widebook';
-	font-size: 30px;
+	font-size: 24px;
 	line-height: 32px;
 	text-transform: uppercase;
 	display: block;
 	margin: 0 0 55px;
 	padding: 5px 0 18px 80px;
+	transition: 0.3s;
 }
+.box_contact span:hover{
+color: #ff6600;
+}
+
+
 .box_contact span.email{background: url(../images/icon_email3.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_linked2.png) no-repeat;}
 .box_contact span.skype{background: url(../images/icon_tw.png) no-repeat;}
