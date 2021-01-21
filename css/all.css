@@ -742,6 +742,11 @@ h2.slogan {
 	width: 100%;
   }
 
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
 
 .featured-project-card {
 	width: 100%;
