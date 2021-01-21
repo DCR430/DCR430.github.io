@@ -586,6 +586,12 @@ h2.slogan {
 }
 
 /*portfolio*/
+
+.button{
+	font-size: 10px;
+	padding: 16px;
+	border-radius: 50%;
+}
 .sub_nav {
   position: relative;
   display: table;
