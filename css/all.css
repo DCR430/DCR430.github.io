@@ -713,6 +713,16 @@ h2.slogan {
   line-height: 17px;
 }
 
+.row {
+    display:-ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
 .featured-project-card {
 	width: 40%;
 	color: rgb(2, 2, 2);
