@@ -733,6 +733,7 @@ h2.slogan {
 	border-radius: 5px;
 	background-color: rgb(244, 219, 82);
 	transition: all 1s ease;
+	box-sizing: border-box;
   }
 /*contact*/
 .clear {
