@@ -588,6 +588,7 @@ h2.slogan {
 /*portfolio*/
 
 .button{
+	background-color: #46484c;
 	font-size: 10px;
 	padding: 16px;
 	border-radius: 12%;
