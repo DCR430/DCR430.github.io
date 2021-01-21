@@ -724,16 +724,9 @@ h2.slogan {
   line-height: 17px;
 }
 
-.row {
-    display: flex;
-    margin-right: -15px;
-	margin-left: -15px;
-	justify-content: space-between;
-}
 
-.icon-row {
-	width: 100%;
-  }
+
+
 
 
 .featured-project-card {
@@ -752,14 +745,7 @@ h2.slogan {
 	font-size: 15px;
 }
 
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
+
 
 /*contact*/
 .clear {
