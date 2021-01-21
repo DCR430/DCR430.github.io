@@ -588,13 +588,14 @@ h2.slogan {
 /*portfolio*/
 
 .button{
-	font-size: 12px;
+	/* font-size: 12px; */
 	padding: 10px;
 	border-radius: 12px;
 	background-color: #46484c;
-	color: white;
+	/* color: white; */
 	border-color: black;
-	font-family: "novecentosanswide";
+	/* font-family: "novecentosanswide"; */
+	background: url(../images/icon_git.png) no-repeat 50% 50%;
 
 	}
 .sub_nav {
