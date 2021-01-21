@@ -587,6 +587,7 @@ color: #ff6600;
 .box_contact span.email{background: url(../images/icon_email3.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_linked2.png) no-repeat;}
 .box_contact span.skype{background: url(../images/icon_tw.png) no-repeat;}
+.box_contact span.git{background: url(../images/icon_git.png) no-repeat;}
 /*footer
  */
 #footer {
@@ -775,6 +776,10 @@ transition: all 0.5s ease-in-out;
 	}
 	.box_contact span.skype{
 		background-image: url(../images/icon_tw.png);
+		background-size:54px 51px;
+	}
+	.box_contact span.git{
+		background-image: url(../images/icon_git.png);
 		background-size:54px 51px;
 	}
 /* begin add	 */
