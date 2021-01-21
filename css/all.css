@@ -722,10 +722,12 @@ h2.slogan {
 
 
 .featured-project-card {
-    width: 40%;
+	width: 100%;
+	padding-bottom: 100%;
+	position: relative;
     color: #f9f9f9;
     min-width: 300px;
-    padding: 1.5rem 1.5rem 1.5rem;
+    padding: 1.5rem 1.5rem ;
     margin: 1rem 3.5rem;
     border: 30px solid white;
     border-radius: 5px;
