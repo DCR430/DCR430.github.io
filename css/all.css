@@ -595,8 +595,12 @@ h2.slogan {
 	color: white;
 	border-color: black;
 	font-family: "novecentosanswide";
-
 	}
+
+	.button a {
+		color: white;
+	}
+
 .sub_nav {
   position: relative;
   display: table;
