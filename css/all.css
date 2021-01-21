@@ -590,7 +590,7 @@ h2.slogan {
 .button{
 	font-size: 10px;
 	padding: 16px;
-	border-radius: 50%;
+	border-radius: 12%;
 }
 .sub_nav {
   position: relative;
