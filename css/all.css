@@ -590,7 +590,7 @@ h2.slogan {
 .button{
 	font-size: 12px;
 	padding: 10px;
-	border-radius: inherit;
+	border-radius: 12px;
 	background-color: #46484c;
 	color: white;
 	border-color: black;
