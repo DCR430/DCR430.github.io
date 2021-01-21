@@ -595,12 +595,8 @@ h2.slogan {
 	color: white;
 	border-color: black;
 	font-family: "novecentosanswide";
-	}
 
-	.button a {
-		color: white;
 	}
-
 .sub_nav {
   position: relative;
   display: table;
@@ -728,9 +724,12 @@ h2.slogan {
   line-height: 17px;
 }
 
-
-
-
+.row {
+    display: flex;
+    margin-right: -15px;
+	margin-left: -15px;
+	justify-content: space-between;
+}
 
 
 .featured-project-card {
