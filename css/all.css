@@ -567,8 +567,8 @@ transition: all 0.5s ease-in-out;
 	overflow:hidden;
 	margin: 54px 0 0 0;
 }
-.box_contact a{
-	color: #ff6600;
+.box_contact span{
+	color:white;
 	font-family: 'novecento_sans_widebook';
 	font-size: 18px;
 	line-height: 32px;
@@ -578,9 +578,9 @@ transition: all 0.5s ease-in-out;
 	padding: 5px 0 18px 80px;
 	transition: 0.3s;
 }
-/* .box_contact a:hover{
-background-color: #ff6600;
-} */
+.box_contact a:hover{
+color: #ff6600;
+}
 
 
 .box_contact span.email{background: url(../images/icon_email3.png) no-repeat;}
