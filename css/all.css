@@ -731,6 +731,10 @@ h2.slogan {
 	justify-content: space-between;
 }
 
+.icon-row {
+	width: 100%;
+  }
+
 
 .featured-project-card {
 	width: 100%;
