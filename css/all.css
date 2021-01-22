@@ -593,12 +593,12 @@ h2.slogan {
 	border-radius: 12px;
 	background-color: transparent;
 	color: white;
-	border-color:#46484c;
+	border-color:#ff6600;
 	font-family: "novecentosanswide";
 	}
 
 	.button:hover {
-		background-color: #ff6600;
+		background-color: white;
 		color: white;
 	  }
 
