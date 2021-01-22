@@ -807,7 +807,7 @@ h2.slogan {
   background: url(../images/icon_linked2.png) no-repeat;
 }
 .box_contact span.skype {
-  background: url(../images/icon_twitter.png) no-repeat;
+  background: url(../images/icon_tw.png) no-repeat;
 }
 .box_contact span.git {
   background: url(../images/icon_git.png) no-repeat;
@@ -1019,7 +1019,7 @@ h2.slogan {
     background-size: 54px 54px;
   }
   .box_contact span.skype {
-    background-image: url(../images/icon_twitter.png);
+    background-image: url(../images/icon_tw.png);
     background-size: 54px 51px;
   }
   .box_contact span.git {
