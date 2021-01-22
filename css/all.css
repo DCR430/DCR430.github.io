@@ -344,7 +344,7 @@ a {
 
 #nav ul a:hover,
 #nav ul a.active {
-  color: #28292b;
+  color:rgba(255, 255, 255, 0.125);
   border-bottom: 4px solid #28292b;
   text-decoration: none;
   -webkit-transition: all 0.5s ease-in-out;
