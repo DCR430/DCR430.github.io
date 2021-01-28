@@ -57,7 +57,7 @@ $(document).ready(function() {
 // end add	
 }); 
 $(window).resize(function() {
-    if($(document).width() > 374){
+    if($(document).width() > 370){
       $( "#nav" ).addClass("active");
       $( "#nav ul" ).attr('style','');
       $( "#nav" ).attr('style','');
